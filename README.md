@@ -25,7 +25,7 @@ Welcome to my Github page! I am Fernando and I am currently finishing my Compute
 <p>
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=coderharshmalik&show_icons=true&hide_border=true" />
 	
-<B>I want to learn </B>
+<h1>I want to learn </h1>
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
