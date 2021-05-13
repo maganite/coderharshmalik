@@ -13,11 +13,11 @@ Welcome to my Github page! I am harsh malik and I am currently studing in S.mvit
 #### 🌱 Things I am currently working on: 
 - Iam computer science engineering student  
 - I am part of SMVIT code it club 
-- I am currently working on my python skills
+- I am currently working on c++ and webdev
 
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
-- Coding at least 4 hours a day
+- Coding at least 3-4 hours a day
 - Exercising 3 days a week
 - Improving my CV with some education apart from university
 
