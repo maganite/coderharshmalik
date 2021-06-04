@@ -32,6 +32,6 @@ Welcome to my Github page! I am harsh malik and I am currently studing in S.mvit
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 <br />
-<code><img width="10%" src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pluralsight.com%2Fpaths%2Fc-plus-plus&psig=AOvVaw3Dqg1cW25rM_XIS_qEdyoT&ust=1622910277663000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCNiqtIuz_vACFQAAAAAdAAAAABAD></code>
+<code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
