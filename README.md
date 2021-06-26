@@ -1,5 +1,5 @@
 ### Hi there 👋 
-### This is Harsh Malik!
+### This is Harsh Malik
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/coderharshmalik)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-malik-68712a1b9/)
